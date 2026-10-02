@@ -1,0 +1,94 @@
+{
+  "version": "1",
+  "metadata": {
+    "marimo_version": "0.25.0",
+    "script_metadata_hash": null
+  },
+  "cells": [
+    {
+      "id": "Hbol",
+      "code_hash": "1d0db38904205bec4d6f6f6a1f6cec3e",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "LNrV",
+      "code_hash": "f58ad005e508adff118cab2ffa1491d9",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h1 id=\"questo-e-il-primo-notebook\">questo \u00e8 il primo notebook</h1>\n<span class=\"paragraph\">in questo file scriveremo i primi codici python dentro un notebook </span></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "vjvE",
+      "code_hash": "fbbffd7252759410a52ac9fef6d67e6d",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": [
+        {
+          "type": "stream",
+          "name": "stdout",
+          "text": "ciao mondo, a+b fa 3\n",
+          "mimetype": "text/plain"
+        }
+      ]
+    },
+    {
+      "id": "kIHu",
+      "code_hash": "189d77992885f2885747530b9cead864",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "buJD",
+      "code_hash": "10f26938c78fe53b30dd3323441d1b51",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<div style='display: flex;flex: 1;flex-direction: row;justify-content: space-between;align-items: normal;flex-wrap: nowrap;gap: 0.5rem'><marimo-ui-element object-id='buJD-0' random-id='ffb43e3b-486f-5a97-473f-56c6cbb986b0'><marimo-slider data-initial-value='1.0' data-label='&quot;&#92;u003cspan class=&#92;&quot;markdown prose dark:prose-invert contents&#92;&quot;&#92;u003e&#92;u003cspan class=&#92;&quot;paragraph&#92;&quot;&#92;u003ex1&#92;u003c/span&#92;u003e&#92;u003c/span&#92;u003e&quot;' data-start='0.0' data-stop='2.0' data-step='0.1' data-steps='[]' data-debounce='false' data-disabled='false' data-orientation='&quot;horizontal&quot;' data-show-value='false' data-include-input='false' data-full-width='false'></marimo-slider></marimo-ui-element><marimo-ui-element object-id='buJD-1' random-id='3213d4e0-2cf7-3e6e-db7a-3b26d2feb8b6'><marimo-slider data-initial-value='1.0' data-label='&quot;&#92;u003cspan class=&#92;&quot;markdown prose dark:prose-invert contents&#92;&quot;&#92;u003e&#92;u003cspan class=&#92;&quot;paragraph&#92;&quot;&#92;u003ex2&#92;u003c/span&#92;u003e&#92;u003c/span&#92;u003e&quot;' data-start='0.0' data-stop='2.0' data-step='0.1' data-steps='[]' data-debounce='false' data-disabled='false' data-orientation='&quot;horizontal&quot;' data-show-value='false' data-include-input='false' data-full-width='false'></marimo-slider></marimo-ui-element></div>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "bUzi",
+      "code_hash": "0d28832fadd3f31985a3edbdbad44e28",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<pre class='text-xs'>&quot;l&#x27;output del neurone di McCulloch e Pitts e: 0&quot;</pre>"
+          }
+        }
+      ],
+      "console": []
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "version": "1",
+  "metadata": {
+    "marimo_version": "0.25.0",
+    "script_metadata_hash": null
+  },
+  "cells": [
+    {
+      "id": "Hbol",
+      "code_hash": "a9d43d6ece555a5d4445d2011ca34e26",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "NZYO",
+      "code_hash": "dd83bfedabcaff227f20de92cad32044",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h1 id=\"introduzione-a-numpy\">introduzione a numpy</h1>\n<span class=\"paragraph\">la libreria numpy serve per creare e manipolare <strong>array</strong></span></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "NSVE",
+      "code_hash": "92a7b6525712a43628ba69bcf4ded5e6",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<pre class='text-xs'>array([1, 2, 3], dtype=int8)</pre>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "EyXw",
+      "code_hash": "0dc75450e2d2eddedf0a4de6aef627c8",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<pre class='text-xs'>dtype(&#x27;int8&#x27;)</pre>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "LGXe",
+      "code_hash": "4f4903b46d79d7bda6220fb3ca55759a",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<pre class='text-xs'>3</pre>"
+          }
+        }
+      ],
+      "console": []
+    }
+  ]
+}

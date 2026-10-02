@@ -1,0 +1,81 @@
+{
+  "version": "1",
+  "metadata": {
+    "marimo_version": "0.25.0",
+    "script_metadata_hash": null
+  },
+  "cells": [
+    {
+      "id": "Hbol",
+      "code_hash": "1d0db38904205bec4d6f6f6a1f6cec3e",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "qIUN",
+      "code_hash": "60d9065266938edb51b1c19bf18fc6e3",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h1 id=\"correzione-verfica\">correzione verfica</h1></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "kPJz",
+      "code_hash": "920b612e627b650d18c0d37d047ef6e2",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "aRFC",
+      "code_hash": "4cffa8a1f45f0123778ddcdb7c564333",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "qVDM",
+      "code_hash": "4425751089b089f5735979a08eee2af4",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": [
+        {
+          "type": "stream",
+          "name": "stdout",
+          "text": "{'inverti': <function inverti at 0x00000211202C7BA0>, 'conta': <function conta at 0x000002111CB114E0>}\ninverti\nnero gatto il\nsalta\nERRORE comando sconosciuto\n1\n",
+          "mimetype": "text/plain"
+        }
+      ]
+    }
+  ]
+}
