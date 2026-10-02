@@ -8,19 +8,12 @@
     {
       "id": "Hbol",
       "code_hash": "a9d43d6ece555a5d4445d2011ca34e26",
-      "outputs": [
-        {
-          "type": "data",
-          "data": {
-            "text/plain": ""
-          }
-        }
-      ],
+      "outputs": [],
       "console": []
     },
     {
-      "id": "NZYO",
-      "code_hash": "dd83bfedabcaff227f20de92cad32044",
+      "id": "MJUe",
+      "code_hash": "3e759007dc4205a872003b4401057934",
       "outputs": [
         {
           "type": "data",
@@ -32,42 +25,21 @@
       "console": []
     },
     {
-      "id": "NSVE",
+      "id": "vblA",
       "code_hash": "92a7b6525712a43628ba69bcf4ded5e6",
-      "outputs": [
-        {
-          "type": "data",
-          "data": {
-            "text/html": "<pre class='text-xs'>array([1, 2, 3], dtype=int8)</pre>"
-          }
-        }
-      ],
+      "outputs": [],
       "console": []
     },
     {
-      "id": "EyXw",
+      "id": "bkHC",
       "code_hash": "0dc75450e2d2eddedf0a4de6aef627c8",
-      "outputs": [
-        {
-          "type": "data",
-          "data": {
-            "text/html": "<pre class='text-xs'>dtype(&#x27;int8&#x27;)</pre>"
-          }
-        }
-      ],
+      "outputs": [],
       "console": []
     },
     {
-      "id": "LGXe",
+      "id": "lEQa",
       "code_hash": "4f4903b46d79d7bda6220fb3ca55759a",
-      "outputs": [
-        {
-          "type": "data",
-          "data": {
-            "text/html": "<pre class='text-xs'>3</pre>"
-          }
-        }
-      ],
+      "outputs": [],
       "console": []
     }
   ]
